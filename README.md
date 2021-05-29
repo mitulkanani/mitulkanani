@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mitul_kanani07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Mitul" height="30" width="40" /></a>
+<a href="https://twitter.com/mitul_kanani07" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Mitul" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mitul-kanani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mitul" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9006793/mitul-patel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14612669" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kmitul1993/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mitul" height="30" width="40" /></a>
