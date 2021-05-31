@@ -26,6 +26,7 @@
 <a href="https://www.instagram.com/mitul_kanani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mitul" height="30" width="40" /></a>
 <a href="https://www.behance.net/mitul_kanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" alt="Mitul" height="30" width="40" /></a>  
 <a href="https://dribbble.com/mitulkanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="Mitul" height="30" width="40" /></a>
+ <a href="https://www.upwork.com/freelancers/~011db61bf17a3255d1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/upwork.svg" alt="Mitul" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
