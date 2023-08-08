@@ -44,7 +44,7 @@
 
 
 <a href="https://www.behance.net/mitul_kanani" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" alt="Mitul" height="30" width="40" />
+<img align="center" src="https://cdn.simpleicons.org/behance/black/white" alt="Mitul" height="30" width="40" />
 </a>  
 
 <a href="https://dribbble.com/mitulkanani" target="blank">
