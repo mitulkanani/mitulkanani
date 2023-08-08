@@ -53,7 +53,7 @@
 </a>  
 
 <a href="https://dribbble.com/mitulkanani" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="Mitul" height="30" width="40" />
+<img align="center" src="https://cdn.simpleicons.org/dribbble/c8366d/c8366d" alt="Mitul" height="30" width="40" />
 </a>
 
  
