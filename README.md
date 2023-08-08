@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitul Kanani</h1>
 <h3 align="center">Full-stack Web developer | React.js | Next.js | Node.js | Passionate Programmer.</h3>
 
-<p dir="auto"><a href="https://www.linkedin.com/in/sehrish-waheed-bb09571a2/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
+<p dir="left">
 <a href="https://twitter.com/mitul_kanani07" target="blank"><img src="https://img.shields.io/twitter/follow/mitul_kanani07?logo=twitter&style=for-the-badge" alt="Mitul" /></a> </p>
 
 - 🔭 I’m currently working on **working on ReactJS, React Native, NodeJS, Firebase, MongoDB**
