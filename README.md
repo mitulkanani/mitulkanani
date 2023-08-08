@@ -20,16 +20,29 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mitul_kanani07" target="_blank">
+<a href="https://twitter.com/mitul_kanani07" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Mitul" height="30" width="40" />
 </a>
  
 <a href="https://www.linkedin.com/in/mitul-kanani/" target="blank">
-<img align="center" src="https://icons8.com/icon/13963/twitter" alt="Mitul" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Mitul" height="30" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/9006793/mitul-patel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14612669" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kmitul1993/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mitul" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mitul_kanani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mitul" height="30" width="40" /></a>
+
+<a href="https://stackoverflow.com/users/9006793/mitul-patel" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14612669" height="30" width="40" />
+</a>
+
+
+<a href="https://www.facebook.com/kmitul1993/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Mitul" height="30" width="40" />
+</a>
+
+
+<a href="https://www.instagram.com/mitul_kanani/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mitul" height="30" width="40" />
+</a>
+
+
 <a href="https://www.behance.net/mitul_kanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" alt="Mitul" height="30" width="40" /></a>  
 <a href="https://dribbble.com/mitulkanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="Mitul" height="30" width="40" /></a>
  <a href="https://www.upwork.com/freelancers/~011db61bf17a3255d1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/upwork.svg" alt="Mitul" height="30" width="40" /></a>
