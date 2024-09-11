@@ -1,20 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mitul Kanani</h1>
 <h3 align="center">Full-stack Web developer | React.js | Next.js | Node.js | Passionate Programmer.</h3>
 
-<p dir="left">
-<a href="https://twitter.com/mitul_kanani07" target="blank"><img src="https://img.shields.io/twitter/follow/mitul_kanani07?logo=twitter&style=for-the-badge" alt="Mitul" /></a> </p>
-
 - 🔭 I’m currently working on **working on ReactJS, React Native, NodeJS, Firebase, MongoDB**
 
 - 🌱 I’m currently learning **something amazing 🔥(Kubernetes and Docker)**
 
-- 👨‍💻 All of my projects are available at [http://www.mitulkanani.com](http://www.mitulkanani.com/#portfolio)
-
 - 💬 Ask me about **React, JavaScript, Node JS**
-
-- 📫 How to reach me **kmitul1993@gmail.com** | <a href="https://www.linkedin.com/in/mitul-kanani/" rel="nofollow">LinkedIn</a>
-
-- 📄 Know about my experiences [Resume](https://my.indeed.com/p/mitulk-ze9e0b7)
 
 - ⚡ Fun fact **I am half Human and Half JavaScript**
 
