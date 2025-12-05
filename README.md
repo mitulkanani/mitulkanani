@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mitul Kanani</h1>
 <h3 align="center">Full-stack Web developer | React.js | Next.js | Node.js | Passionate Programmer.</h3>
 
-- 🔭 I’m currently working on **working on ReactJS, React Native, NodeJS, Firebase, MongoDB**
+- 🔭 I’m currently working on **working on Nextjs, ReactJS, React Native, NodeJS, Firebase, MongoDB**
 
-- 🌱 I’m currently learning **something amazing 🔥(Kubernetes and Docker)**
+- 🌱 I know **something amazing 🔥(Kubernetes and Docker, AWS, GCP)**
 
-- 💬 Ask me about **React, JavaScript, Node JS**
+- 💬 Ask me about **Nextjs, React, JavaScript, Node JS, Python**
 
 - ⚡ Fun fact **I am half Human and Half JavaScript**
 
