@@ -1,33 +1,86 @@
-<h1 align="center">Hi 👋, I'm Mitul Kanani</h1>
-<h3 align="center">Full-stack Web developer | React.js | Next.js | Node.js | Passionate Programmer.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,55:2563eb,100:06b6d4&text=Mitul%20Kanani&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20LLM%20Apps%20%E2%80%A2%20Automation&descAlignY=60&descSize=16" width="100%" alt="Mitul Kanani — AI Engineering and Full-Stack Product Development" />
 
-- 🔭 I’m currently working on **working on Nextjs, ReactJS, React Native, NodeJS, Firebase, MongoDB**
+  <h3>AI/ML Engineer · AI Product Builder · Founder at ThinkNovus Technologies</h3>
 
-- 🌱 I know **something amazing 🔥(Kubernetes and Docker, AWS, GCP)**
+  <p><strong>Building practical AI systems that connect LLMs to real products, data, and business workflows.</strong></p>
 
-- 💬 Ask me about **Nextjs, React, JavaScript, Node JS, Python**
+  <p>
+    <a href="https://www.upwork.com/freelancers/~011db61bf17a3255d1"><img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Top Rated Plus profile" /></a>
+    <a href="https://thinknovus.com"><img src="https://img.shields.io/badge/ThinkNovus-Technologies-2563eb?style=for-the-badge" alt="ThinkNovus Technologies" /></a>
+    <a href="https://github.com/mitulkanani"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  </p>
+</div>
 
-- ⚡ Fun fact **I am half Human and Half JavaScript**
+mitul.dev/about
+I’m a software engineer and technology founder with 12+ years in software engineering and a focus on building AI-enabled products beyond the prototype stage. My work combines LLM integrations with the backend services, product interfaces, data systems, and cloud infrastructure needed to make AI useful in real workflows.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+My Upwork profile highlights 9+ AI systems shipped to production, alongside a long-standing background in full-stack engineering and cloud delivery.
+- 🤖 AI agents & orchestration — tool calling, multi-step workflows, controlled execution, and human-in-the-loop review
+- 🔎 RAG & knowledge systems — document ingestion, retrieval, grounded answers, and source-aware responses
+- 🧠 LLM applications — AI assistants, copilots, structured extraction, and natural-language interfaces
+- ⚙️ Business automation — n8n, Make, APIs, webhooks, and workflow orchestration
+- ☁️ Production engineering — Python/Node.js services, databases, cloud infrastructure, testing, and CI/CD
+mitul.dev/ai-engineering-stack
+Area	Tools & Technologies
+LLM APIs & Models	OpenAI API, Claude API, Gemini, Azure OpenAI, AWS Bedrock, open-source LLM integrations
+Agents & Orchestration	LangGraph, LangChain, CrewAI, custom orchestration, tool calling, MCP servers
+RAG & Retrieval	Chunking, embeddings, hybrid retrieval, reranking, citations, pgvector, Pinecone, FAISS, Qdrant
+Automation & Integrations	n8n, Make, REST APIs, webhooks, third-party system integrations
+Backend	Python, FastAPI, Django, Node.js, REST APIs
+Frontend	React, Next.js, TypeScript, JavaScript, Tailwind CSS
+Data	PostgreSQL, MongoDB, MySQL, Redis, Supabase, Firebase
+Cloud & Delivery	AWS, Azure, Docker, Kubernetes, CI/CD, monitoring
 
-<a href="https://stackoverflow.com/users/9006793/mitul-patel" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/stackoverflow/black/white" alt="14612669" height="30" width="40" />
-</a>
 
-<a href="https://www.upwork.com/freelancers/~011db61bf17a3255d1" target="blank">
- <img align="center" src="https://cdn.simpleicons.org/upwork/white/green" alt="Mitul" height="30" width="40" />
- </a>
+mitul.dev/what-i-build
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Agentic Workflows</h3>
+      Agents that call approved tools, coordinate steps, handle errors, and request human approval for sensitive actions.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 RAG & Knowledge Assistants</h3>
+      Assistants grounded in business documents and internal knowledge, with retrieval and source references designed for traceability.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 Business Process Automation</h3>
+      Practical workflow automation connecting existing tools, APIs, data validation, and exception handling.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 AI-Enabled SaaS</h3>
+      AI features integrated into complete products, including user experience, backend services, access control, and deployment.
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.behance.net/mitul_kanani" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/behance/white/blue" alt="Mitul" height="30" width="40" />
-</a>  
+mitul.dev/how-i-work
+1. Start with the problem. Choose an LLM only when it is the right tool; conventional logic or standard automation can be more reliable for some tasks.
+2. Design the whole system. Include data flow, access control, APIs, retries, and user experience—not just prompts.
+3. Make behaviour observable. Track model inputs and outputs appropriately, tool calls, failures, latency, and cost.
+4. Evaluate quality. Use representative test cases and measure retrieval quality, response reliability, and regressions.
+5. Be explicit about limitations. Document assumptions and distinguish working integrations from mocks or experimental features.
+mitul.dev/current-focus
+- Reliable agent architectures and tool-enabled workflows
+- RAG systems and internal knowledge assistants
+- MCP-based integrations between AI assistants and business tools
+- LLM evaluation, validation, and observability
+- AI features for SaaS and operational workflows
+I aim to keep public repositories reproducible and transparent: clear setup steps, a concise architecture, tests or evaluation examples where applicable, and honest notes on what is and is not implemented.
 
-<a href="https://dribbble.com/mitulkanani" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/dribbble/c8366d/c8366d" alt="Mitul" height="30" width="40" />
-</a>
-
- 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://cdn.simpleicons.org/babel/black/white" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.simpleicons.org/express/black/white" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/next.js/black/white" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.simpleicons.org/node.js/c8366d/green" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+mitul.dev/connect
+Have an AI product idea, a manual workflow to automate, or an existing SaaS application that needs practical AI features? Let’s discuss the problem and the simplest reliable way to solve it.
+- 💼 Upwork: AI/ML Engineer — AI Agents, RAG & LLM Apps
+- 🌐 ThinkNovus Technologies: thinknovus.com
+- 🧑‍💻 GitHub: mitulkanani
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mitulkanani&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitulkanani&layout=compact&hide_border=true" height="165" alt="Most used programming languages" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitulkanani&hide_border=true&area=true" width="95%" alt="GitHub contribution activity" />
+  <br /><br />
+  <sub>Practical AI. Reliable engineering. Products built for real workflows.</sub>
+</div>
